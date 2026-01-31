@@ -1,0 +1,7 @@
+{
+  "name": "Fin.SD",
+  "description": "Fin.SD: A powerful personal finance manager with AI-driven insights and cross-device synchronization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
